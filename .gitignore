@@ -1,0 +1,21 @@
+# Python environment
+myenv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+
+# Temporary files
+*.tmp
+
+# Invoice documents
+sample_invoices/*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
